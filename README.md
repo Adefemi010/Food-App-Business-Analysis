@@ -3,7 +3,7 @@
 ### Project Overview
 This project serves as a culinary quest into the heart of the food app industry, where I will slice through layers of data to uncover the tastes and tendencies of users. My analysis will simmer down the complex ingredients of user interactions, order patterns, and business performance to serve up a feast of insights.
 
-Armed with a suite of analytical tools, including Tableau for its data-crunching prowess and tqdm for tracking our analytical journey, I will digest vast amounts of data to extract meaningful patterns. My methodology will be precise and my approach, systematic, to ensure that I capture the full flavor of the data.
+Armed with a suite of analytical tools, including Tableau for its data-crunching prowess. I will digest vast amounts of data to extract meaningful patterns. My methodology will be precise and my approach, systematic, to ensure that I capture the full flavor of the data.
 
 The menu for our analysis includes:
 
